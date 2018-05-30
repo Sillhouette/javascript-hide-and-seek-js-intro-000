@@ -23,7 +23,11 @@ function deepestChild(){
     }
   }
 /**
+<<<<<<< HEAD
   return lis[lis.length-1] // This is how I first tried to do it. This works.
+=======
+  return lis[lis.length-1] // This is how I first tried to do it. This works. 
+>>>>>>> 997d4b77eff10a4fbcdb5f622f2bc5835dddeae9
 
 
   function deepestChild() {
